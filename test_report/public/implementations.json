@@ -76,5 +76,11 @@
     "url": "https://github.com/HeliosSoftware/hfs?tab=readme-ov-file#4-helios-sof---sql-on-fhir-implementation",
     "description": "An open source Rust implementation of SQL on FHIR that includes a simple CLI for batch transformations, a HTTP server ideal for microservices, and Python bindings for using SQL on FHIR directly in your data science and analytics projects.",
     "testResultsUrl": "https://heliossoftware.github.io/hfs/test_report.json"
+  },
+  {
+    "name": "fhirviews",
+    "url": "https://github.com/f-slg/fhirviews",
+    "description": "R package: SQL on FHIR view runner in R (fhirpath.js on V8, plus an experimental DuckDB SQL engine) with an HL7 FHIR R4 client",
+    "testResultsUrl": "https://f-slg.github.io/fhirviews/sof-test-results.json"
   }
 ]
