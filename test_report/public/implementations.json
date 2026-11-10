@@ -81,6 +81,6 @@
     "name": "fhirviews (R)",
     "url": "https://github.com/f-slg/fhirviews",
     "description": "R package with a FHIR R4 client and a SQL on FHIR ViewDefinition engine. FHIRPath is evaluated with fhirpath.js through V8; an experimental second engine translates views to DuckDB SQL for NDJSON and Parquet files. No Java or Spark required. Documentation in Spanish.",
-    "testResultsUrl": "https://raw.githubusercontent.com/f-slg/fhirviews/main/conformidad/test_report.json"
+    "testResultsUrl": "https://f-slg.github.io/fhirviews/sof-test-results.json"
   }
 ]
